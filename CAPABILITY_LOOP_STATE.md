@@ -19,5 +19,10 @@ Start: 2026-04-15
 Status: COMPLETE
 Capability: Warp Grid — domain-warped grid with feedback and flesh palette
 
+## Iteration 4
+Start: 2026-04-15
+Status: COMPLETE
+Capability: Interference Pattern — moiré wave interference with Lissajous sources
+
 ## Backlog
-- [HIGH] Interference Pattern — moiré / standing wave generator
+(empty — all 4 programs delivered)
