@@ -5,5 +5,15 @@
 
 ## Iteration 1
 Start: 2026-04-14
-Phase: RESEARCH
-Status: IN_PROGRESS
+Status: COMPLETE
+Capability: Spectral Face — warped spiral portrait
+Commit: 24fe5c3
+
+## Iteration 2
+Start: 2026-04-15
+Status: COMPLETE
+Capability: Granular Mesh — 3D particle topology with dynamic wireframe
+
+## Backlog
+- [HIGH] Warp Grid — realtime domain distortion with feedback loops
+- [MEDIUM] Interference Pattern — moiré / standing wave generator
