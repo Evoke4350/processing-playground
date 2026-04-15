@@ -14,6 +14,10 @@ Start: 2026-04-15
 Status: COMPLETE
 Capability: Granular Mesh — 3D particle topology with dynamic wireframe
 
+## Iteration 3
+Start: 2026-04-15
+Status: COMPLETE
+Capability: Warp Grid — domain-warped grid with feedback and flesh palette
+
 ## Backlog
-- [HIGH] Warp Grid — realtime domain distortion with feedback loops
-- [MEDIUM] Interference Pattern — moiré / standing wave generator
+- [HIGH] Interference Pattern — moiré / standing wave generator
